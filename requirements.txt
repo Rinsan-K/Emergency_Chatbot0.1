@@ -1,0 +1,6 @@
+transformers==4.30.0
+torch==2.0.1
+gradio==3.30.0
+flask==2.1.0
+fastapi==0.88.0
+sentence-transformers==2.2.2
